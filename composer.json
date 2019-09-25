@@ -17,7 +17,7 @@
         ]
     },
     "require-dev": {
-	"ingeni/ingeni" : "dev-master",
+	"ingeni/amolib" : "dev-master",
 	"minimum-stability": "dev",
     "prefer-stable": true
 	},
