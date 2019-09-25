@@ -18,7 +18,8 @@
             "src/amolib.php"
             
         ]
-    },
+    }
+	},
     "require-dev": {
 	"ingeni/amolib" : "dev-master"	
 	},
@@ -30,3 +31,4 @@
     "prefer-stable": true
 	
 }
+
