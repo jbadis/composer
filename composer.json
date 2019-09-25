@@ -10,7 +10,7 @@
         }
     ],
     "require-dev": {
-	"ingeni/ingeni" : "^1.0"
+	"ingeni/ingeni" : "dev-master"
 	
 	},
 	"require": {
