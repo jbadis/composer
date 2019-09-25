@@ -10,10 +10,12 @@
             "email": "p@ingeni.space"
         }
     ],
+	"minimum-stability": "dev",
+	"prefer-stable": true,
 	
 	"autoload": {
 		"psr-4": {
-            "Ingini\\": "src",
+            "ingini\\": "src",
         "files": [
             "src/amolib.php"
             
@@ -27,8 +29,8 @@
         "php": ">=5.3.0"
 },
 
-	"minimum-stability": "dev",
-    "prefer-stable": true
+	
+    
 	
 }
 
