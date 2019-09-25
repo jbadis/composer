@@ -7,11 +7,17 @@
     "authors": [
         {
             "name": "ingeni",
-            
+            "email": "p@ingeni.space"
         }
-    ],	
+    ],
+	
+	
     "minimum-stability": "dev",
-    "prefer-stable": true,	
+    "prefer-stable": true,
+	
+	
+	
+	
 	"autoload": {
 		"files": [
             "src/amolib.php"
@@ -24,6 +30,8 @@
 	"require": {
         "php": ">=5.3.0"
 }
-
+	
+    
+	
 }
 
