@@ -16,9 +16,8 @@
 	"autoload": {
 		"psr-4": {
             "ingeni": "src/"
-       
             
-        ]
+        
     }
 	},
     "require-dev": {
