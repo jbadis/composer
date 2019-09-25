@@ -8,7 +8,9 @@
             "name": "ingeni",
             "email": "p@ingeni.space"
         }
-    ]
+    ],
+    "require-dev": {
+	"ingeni/ingeni" : "dev-master"
 	
 	},
 	"require": {
