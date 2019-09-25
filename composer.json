@@ -15,9 +15,8 @@
 	
 	"autoload": {
 		"psr-4": {
-            "ingeni": "src/",
-        "files": [
-            "src/amolib.php"
+            "ingeni": "src/"
+       
             
         ]
     }
