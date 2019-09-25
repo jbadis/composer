@@ -9,6 +9,6 @@
         }
     ],
     "require-dev": {
-	"phing/phing" : "dev-master"
+	"ingeni/ingeni" : "dev-master"
 	}
 }
