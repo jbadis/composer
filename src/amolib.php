@@ -19,7 +19,7 @@ function amocrmErrors ($getCode, $getMessage,$domen){
     curl_setopt($ch, CURLOPT_HTTPHEADER, array('application/x-www-form-urlencoded'));
     curl_exec($ch);
     curl_close($ch);    
-}
+} 
 
 	
 ?>
