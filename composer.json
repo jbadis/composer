@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 },
-"autoload": {
+	"autoload": {
         "files": [
             "src/amolib.php"
             
