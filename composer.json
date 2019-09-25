@@ -8,5 +8,7 @@
             "email": "p@ingeni.space"
         }
     ],
-    "require": {}
+    "require-dev": {
+	"phing/phing" : "dev-master"
+	}
 }
