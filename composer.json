@@ -9,6 +9,12 @@
             "email": "p@ingeni.space"
         }
     ],
+	"autoload": {
+        "files": [
+            "src/amolib.php"
+            
+        ]
+    },
     "require-dev": {
 	"ingeni/ingeni" : "dev-master"
 	
@@ -19,11 +25,6 @@
 {
     "minimum-stability": "dev",
     "prefer-stable": true
-},
-	"autoload": {
-        "files": [
-            "src/amolib.php"
-            
-        ]
-    }
+}
+	
 }
