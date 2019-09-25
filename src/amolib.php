@@ -1,5 +1,5 @@
 <?php
-
+namespace ingeni;
 function amocrmErrors ($getCode, $getMessage,$domen){
 	
 	$data = array(
