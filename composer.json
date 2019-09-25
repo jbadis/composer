@@ -10,7 +10,12 @@
             "email": "p@ingeni.space"
         }
     ],
-	"minimum-stability": "dev",
+	
+	{
+    "minimum-stability": "dev",
+    "prefer-stable": true
+	}
+	
 	
 	
 	"autoload": {
