@@ -3,8 +3,7 @@
     "description": "lib",
     "type": "library",
 	"license": "MIT",
-	"minimum-stability": "dev",
-    "prefer-stable": true,
+	
     "authors": [
         {
             "name": "ingeni",
@@ -19,7 +18,8 @@
     },
     "require-dev": {
 	"ingeni/ingeni" : "dev-master"
-	
+	"minimum-stability": "dev",
+    "prefer-stable": true
 	},
 	"require": {
         "php": ">=5.3.0"
