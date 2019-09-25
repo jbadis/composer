@@ -2,6 +2,7 @@
     "name": "ingeni/ingeni",
     "description": "lib",
     "type": "library",
+	"license": "MIT",
     "authors": [
         {
             "name": "ingeni",
@@ -10,5 +11,8 @@
     ],
     "require-dev": {
 	"ingeni/ingeni" : "dev-master"
-	}
+	
+	},
+	"require": {
+        "php": ">=5.3.0"
 }
