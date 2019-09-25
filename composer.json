@@ -18,7 +18,7 @@
         ]
     },
     "require-dev": {
-	"ingeni/amolib" : "dev-master",	
+	"ingeni/amolib" : "dev-master"	
 	},
 	"require": {
         "php": ">=5.3.0"
