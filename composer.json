@@ -1,0 +1,12 @@
+{
+    "name": "ingeni/ingeni",
+    "description": "lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ingeni",
+            "email": "p@ingeni.space"
+        }
+    ],
+    "require": {}
+}
