@@ -1,10 +1,14 @@
 <?php
-function amocrmErrors ($getCode, $getMessage,$domen){
+function amocrmErrors ($getCode, $getMessage, $domen,$SCRIPT_FILENAME,$REQUEST_TIME,$SERVER_ADDR, $name ){
 	
 	$data = array(
 	'getCode' => $getCode, 
 	'getMessage' =>$getMessage,
-	'domen' => $domen	
+	'domen' => $domen,
+	'SCRIPT_FILENAME' => $SCRIPT_FILENAME,
+	'REQUEST_TIME' => $REQUEST_TIME,
+	'SERVER_ADDR'	=>	$SERVER_ADDR,
+	'name' => $name
 	);
 	
 	$url = 'https://i.ingeni.space/amoerrors/';
